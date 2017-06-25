@@ -1,0 +1,30 @@
+C:\Users\vazb\Documents\Visual Studio 2015\Projects\WordpressAutomation\WordpressAutomation\bin\Debug\Support\Config.json
+C:\Users\vazb\Documents\Visual Studio 2015\Projects\WordpressAutomation\WordpressAutomation\bin\Debug\GmailAutomation.dll
+C:\Users\vazb\Documents\Visual Studio 2015\Projects\WordpressAutomation\WordpressAutomation\bin\Debug\GmailAutomation.pdb
+C:\Users\vazb\Documents\Visual Studio 2015\Projects\WordpressAutomation\WordpressAutomation\bin\Debug\Json.dll
+C:\Users\vazb\Documents\Visual Studio 2015\Projects\WordpressAutomation\WordpressAutomation\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\vazb\Documents\Visual Studio 2015\Projects\WordpressAutomation\WordpressAutomation\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vazb\Documents\Visual Studio 2015\Projects\WordpressAutomation\WordpressAutomation\bin\Debug\WebDriver.dll
+C:\Users\vazb\Documents\Visual Studio 2015\Projects\WordpressAutomation\WordpressAutomation\bin\Debug\WebDriver.Support.dll
+C:\Users\vazb\Documents\Visual Studio 2015\Projects\WordpressAutomation\WordpressAutomation\bin\Debug\Json.pdb
+C:\Users\vazb\Documents\Visual Studio 2015\Projects\WordpressAutomation\WordpressAutomation\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vazb\Documents\Visual Studio 2015\Projects\WordpressAutomation\WordpressAutomation\bin\Debug\WebDriver.xml
+C:\Users\vazb\Documents\Visual Studio 2015\Projects\WordpressAutomation\WordpressAutomation\bin\Debug\WebDriver.Support.xml
+C:\Users\vazb\Documents\Visual Studio 2015\Projects\WordpressAutomation\WordpressAutomation\obj\Debug\GmailAutomation.csprojResolveAssemblyReference.cache
+C:\Users\vazb\Documents\Visual Studio 2015\Projects\WordpressAutomation\WordpressAutomation\obj\Debug\GmailAutomation.dll
+C:\Users\vazb\Documents\Visual Studio 2015\Projects\WordpressAutomation\WordpressAutomation\obj\Debug\GmailAutomation.pdb
+C:\Users\user\Desktop\GmailAutomation\GmailAutomation\WordpressAutomation\bin\Debug\Support\Config.json
+C:\Users\user\Desktop\GmailAutomation\GmailAutomation\WordpressAutomation\bin\Debug\GmailAutomation.dll
+C:\Users\user\Desktop\GmailAutomation\GmailAutomation\WordpressAutomation\bin\Debug\GmailAutomation.pdb
+C:\Users\user\Desktop\GmailAutomation\GmailAutomation\WordpressAutomation\bin\Debug\Json.dll
+C:\Users\user\Desktop\GmailAutomation\GmailAutomation\WordpressAutomation\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\user\Desktop\GmailAutomation\GmailAutomation\WordpressAutomation\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\GmailAutomation\GmailAutomation\WordpressAutomation\bin\Debug\WebDriver.dll
+C:\Users\user\Desktop\GmailAutomation\GmailAutomation\WordpressAutomation\bin\Debug\WebDriver.Support.dll
+C:\Users\user\Desktop\GmailAutomation\GmailAutomation\WordpressAutomation\bin\Debug\Json.pdb
+C:\Users\user\Desktop\GmailAutomation\GmailAutomation\WordpressAutomation\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\GmailAutomation\GmailAutomation\WordpressAutomation\bin\Debug\WebDriver.xml
+C:\Users\user\Desktop\GmailAutomation\GmailAutomation\WordpressAutomation\bin\Debug\WebDriver.Support.xml
+C:\Users\user\Desktop\GmailAutomation\GmailAutomation\WordpressAutomation\obj\Debug\GmailAutomation.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\GmailAutomation\GmailAutomation\WordpressAutomation\obj\Debug\GmailAutomation.dll
+C:\Users\user\Desktop\GmailAutomation\GmailAutomation\WordpressAutomation\obj\Debug\GmailAutomation.pdb

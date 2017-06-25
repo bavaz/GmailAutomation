@@ -1,0 +1,13 @@
+c:\users\vazb\documents\visual studio 2015\Projects\WordpressAutomation\WordpressTests\obj\Debug\WordpressTests.csprojResolveAssemblyReference.cache
+c:\users\vazb\documents\visual studio 2015\Projects\WordpressAutomation\WordpressTests\bin\Debug\WordpressTests.dll
+c:\users\vazb\documents\visual studio 2015\Projects\WordpressAutomation\WordpressTests\bin\Debug\WordpressTests.pdb
+c:\users\vazb\documents\visual studio 2015\Projects\WordpressAutomation\WordpressTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\vazb\documents\visual studio 2015\Projects\WordpressAutomation\WordpressTests\bin\Debug\WordpressAutomation.dll
+c:\users\vazb\documents\visual studio 2015\Projects\WordpressAutomation\WordpressTests\bin\Debug\WordpressAutomation.pdb
+c:\users\vazb\documents\visual studio 2015\Projects\WordpressAutomation\WordpressTests\obj\Debug\WordpressTests.dll
+c:\users\vazb\documents\visual studio 2015\Projects\WordpressAutomation\WordpressTests\obj\Debug\WordpressTests.pdb
+c:\users\vazb\documents\visual studio 2015\Projects\WordpressAutomation\WordpressTests\bin\Debug\WebDriver.Support.dll
+c:\users\vazb\documents\visual studio 2015\Projects\WordpressAutomation\WordpressTests\bin\Debug\WebDriver.Support.xml
+C:\Users\vazb\Documents\Visual Studio 2015\Projects\WordpressAutomation\WordpressTests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vazb\Documents\Visual Studio 2015\Projects\WordpressAutomation\WordpressTests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vazb\Documents\Visual Studio 2015\Projects\WordpressAutomation\WordpressTests\bin\Debug\Support\Config.json
